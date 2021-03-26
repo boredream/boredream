@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![boredream's GitHub stats](https://github-readme-stats.vercel.app/api?username=boredream&count_private=true&show_icons=true&theme=vue)](https://github.com/boredream)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boredream&layout=compact)](https://github.com/boredream)
+
+<!--
+<a href="https://github.com/boredream/Blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=boredream&repo=Blog" />
+</a>
+
+<a href="https://github.com/boredream/aboutme">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=boredream&repo=aboutme" />
+</a>
+
+<a href="https://github.com/boredream/boredream.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=boredream&repo=boredream.github.io" />
+</a>
+-->
+
